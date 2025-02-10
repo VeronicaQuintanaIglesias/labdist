@@ -1,7 +1,7 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     const form = document.getElementById("formContacto");
-    
-    form.addEventListener("submit", function(event) {
+
+    form.addEventListener("submit", function (event) {
         let valid = true;
 
         const nombre = document.getElementById("nombre");
@@ -18,9 +18,15 @@ document.addEventListener("DOMContentLoaded", function() {
             valid = false;
         }
 
-        
+
         if (!valid) {
             event.preventDefault();
         }
+
+        if (mensaje.value.trim() === "") {
+            alert("Ingrese un mensaje, por favor");
+            valid = false;
+        }
+        
     });
 });
