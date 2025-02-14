@@ -464,8 +464,18 @@ Fusiona la rama `hotfix-js` en `main` . Debe producirse un conflicto. Resuélvel
 
 - Url: https://github.com/VeronicaQuintanaIglesias/labdist.git
 
-<img src="./Actividad-Evaluable---2-Ejercicio-de-Git---proyecto-labdist.assets/image-20250214111000759.png" alt="image-20250214111000759" style="zoom:50%;" />
+
+
+<img src="./Actividad-Evaluable---2-Ejercicio-de-Git---proyecto-labdist.assets/image-20250214115259732.png" alt="image-20250214115259732" style="zoom:50%;" />
+
+- Ramas
+
+<img src="./Actividad-Evaluable---2-Ejercicio-de-Git---proyecto-labdist.assets/image-20250214115516247.png" alt="image-20250214115516247" style="zoom:50%;" />
 
 
 
-<img src="./Actividad-Evaluable---2-Ejercicio-de-Git---proyecto-labdist.assets/image-20250214111025370.png" alt="image-20250214111025370" style="zoom:67%;" />
+# Videoclip
+
+
+
+**Url:** 
